@@ -1,16 +1,5 @@
 # animated_mail_app
 
-A new Flutter project.
+A simple animated concept mail app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Captura de ecrã 2023-10-13 123822](https://github.com/matiasdev30/animated_mail_app/assets/50122963/6a4d3750-c93b-44a0-bb04-e95c9845d4a5)
